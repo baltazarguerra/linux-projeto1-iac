@@ -9,9 +9,9 @@ mkdir /adm
 mkdir /ven
 mkdir /sec
 
-chmod 730 /adm
-chmod 730 /ven
-chmod 730 /sec
+chmod 770 /adm
+chmod 770 /ven
+chmod 770 /sec
 chmod 777 /publico
 
 
